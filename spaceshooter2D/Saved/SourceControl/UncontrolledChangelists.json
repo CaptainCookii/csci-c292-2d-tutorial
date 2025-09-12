@@ -5,7 +5,29 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/Evan/OneDrive/Documents/GitHub/csci-c292-2d-tutorial/spaceshooter2D/Content/StarterContent/Architecture/Floor_400x400.uasset"
+				"C:/Users/Evan/OneDrive/Documents/GitHub/csci-c292-2d-tutorial/spaceshooter2D/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/Evan/OneDrive/Documents/GitHub/csci-c292-2d-tutorial/spaceshooter2D/Content/MainMap.umap",
+				"C:/Users/Evan/OneDrive/Documents/GitHub/csci-c292-2d-tutorial/spaceshooter2D/Content/Maps/MainMap.umap",
+				"C:/Users/Evan/OneDrive/Documents/GitHub/csci-c292-2d-tutorial/spaceshooter2D/Content/Textures/background.uasset",
+				"C:/Users/Evan/OneDrive/Documents/GitHub/csci-c292-2d-tutorial/spaceshooter2D/Content/Blueprints/BP_PlayerPawn.uasset",
+				"C:/Users/Evan/OneDrive/Documents/GitHub/csci-c292-2d-tutorial/spaceshooter2D/Content/Textures/background_Sprite.uasset",
+				"C:/Users/Evan/OneDrive/Documents/GitHub/csci-c292-2d-tutorial/spaceshooter2D/Content/Textures/playerShip1_blue.uasset",
+				"C:/Users/Evan/OneDrive/Documents/GitHub/csci-c292-2d-tutorial/spaceshooter2D/Content/Textures/enemyRed1.uasset",
+				"C:/Users/Evan/OneDrive/Documents/GitHub/csci-c292-2d-tutorial/spaceshooter2D/Content/Textures/laserRed07.uasset",
+				"C:/Users/Evan/OneDrive/Documents/GitHub/csci-c292-2d-tutorial/spaceshooter2D/Content/Textures/enemyRed1_Sprite.uasset",
+				"C:/Users/Evan/OneDrive/Documents/GitHub/csci-c292-2d-tutorial/spaceshooter2D/Content/Textures/laserRed07_Sprite.uasset",
+				"C:/Users/Evan/OneDrive/Documents/GitHub/csci-c292-2d-tutorial/spaceshooter2D/Content/Textures/playerShip1_blue_Sprite.uasset",
+				"C:/Users/Evan/OneDrive/Documents/GitHub/csci-c292-2d-tutorial/spaceshooter2D/Content/Blueprints/BP_PlayerPawnSpace.uasset",
+				"C:/Users/Evan/OneDrive/Documents/GitHub/csci-c292-2d-tutorial/spaceshooter2D/Content/Blueprints/BP_PlayerControllerSpace.uasset",
+				"C:/Users/Evan/OneDrive/Documents/GitHub/csci-c292-2d-tutorial/spaceshooter2D/Content/Blueprints/BP_GameModeSpace.uasset",
+				"C:/Users/Evan/OneDrive/Documents/GitHub/csci-c292-2d-tutorial/spaceshooter2D/Content/Blueprints/BP_Laser.uasset",
+				"C:/Users/Evan/OneDrive/Documents/GitHub/csci-c292-2d-tutorial/spaceshooter2D/Content/Blueprints/IA_FireLaser.uasset",
+				"C:/Users/Evan/OneDrive/Documents/GitHub/csci-c292-2d-tutorial/spaceshooter2D/Content/Blueprints/IMC_DefaultLayout.uasset",
+				"C:/Users/Evan/OneDrive/Documents/GitHub/csci-c292-2d-tutorial/spaceshooter2D/Content/Blueprints/BP_EnemyPawn.uasset",
+				"C:/Users/Evan/OneDrive/Documents/GitHub/csci-c292-2d-tutorial/spaceshooter2D/Content/Blueprints/BP_EnemySpawner.uasset",
+				"C:/Users/Evan/OneDrive/Documents/GitHub/csci-c292-2d-tutorial/spaceshooter2D/Content/Blueprints/BP_GameStateSpace.uasset",
+				"C:/Users/Evan/OneDrive/Documents/GitHub/csci-c292-2d-tutorial/spaceshooter2D/Content/Blueprints/WBP_MainUI.uasset",
+				"C:/Users/Evan/OneDrive/Documents/GitHub/csci-c292-2d-tutorial/spaceshooter2D/Content/Blueprints/IA_Restart.uasset"
 			]
 		}
 	]

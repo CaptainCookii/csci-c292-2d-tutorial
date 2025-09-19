@@ -27,7 +27,16 @@
 				"C:/Users/Evan/OneDrive/Documents/GitHub/csci-c292-2d-tutorial/spaceshooter2D/Content/Blueprints/BP_EnemySpawner.uasset",
 				"C:/Users/Evan/OneDrive/Documents/GitHub/csci-c292-2d-tutorial/spaceshooter2D/Content/Blueprints/BP_GameStateSpace.uasset",
 				"C:/Users/Evan/OneDrive/Documents/GitHub/csci-c292-2d-tutorial/spaceshooter2D/Content/Blueprints/WBP_MainUI.uasset",
-				"C:/Users/Evan/OneDrive/Documents/GitHub/csci-c292-2d-tutorial/spaceshooter2D/Content/Blueprints/IA_Restart.uasset"
+				"C:/Users/Evan/OneDrive/Documents/GitHub/csci-c292-2d-tutorial/spaceshooter2D/Content/Blueprints/IA_Restart.uasset",
+				"C:/Users/Evan/OneDrive/Documents/GitHub/csci-c292-2d-tutorial/spaceshooter2D/Content/Blueprints/BP_StageOneEnemy.uasset",
+				"C:/Users/Evan/OneDrive/Documents/GitHub/csci-c292-2d-tutorial/spaceshooter2D/Content/Blueprints/BP_StageTwoEnemy.uasset",
+				"C:/Users/Evan/OneDrive/Documents/GitHub/csci-c292-2d-tutorial/spaceshooter2D/Content/Textures/enemyGreen1.uasset",
+				"C:/Users/Evan/OneDrive/Documents/GitHub/csci-c292-2d-tutorial/spaceshooter2D/Content/Textures/enemyBlack4.uasset",
+				"C:/Users/Evan/OneDrive/Documents/GitHub/csci-c292-2d-tutorial/spaceshooter2D/Content/Textures/enemyGreen1_Sprite.uasset",
+				"C:/Users/Evan/OneDrive/Documents/GitHub/csci-c292-2d-tutorial/spaceshooter2D/Content/Textures/enemyBlack4_Sprite.uasset",
+				"C:/Users/Evan/OneDrive/Documents/GitHub/csci-c292-2d-tutorial/spaceshooter2D/Content/Textures/laserBlue07.uasset",
+				"C:/Users/Evan/OneDrive/Documents/GitHub/csci-c292-2d-tutorial/spaceshooter2D/Content/Textures/laserBlue07_Sprite.uasset",
+				"C:/Users/Evan/OneDrive/Documents/GitHub/csci-c292-2d-tutorial/spaceshooter2D/Content/Blueprints/BP_EnemyLaser.uasset"
 			]
 		}
 	]
